@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IntelliGrow-API.props" />
+</Project>
